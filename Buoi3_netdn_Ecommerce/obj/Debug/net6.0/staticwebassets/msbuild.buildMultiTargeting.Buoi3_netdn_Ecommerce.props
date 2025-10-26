@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Buoi3_netdn_Ecommerce.props" />
+</Project>
