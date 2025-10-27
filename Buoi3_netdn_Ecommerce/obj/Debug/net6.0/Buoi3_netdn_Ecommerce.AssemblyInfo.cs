@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Buoi3_netdn_Ecommerce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+069c594ed191859b7c13183b6ef7a1228024ebf9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Buoi3_netdn_Ecommerce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Buoi3_netdn_Ecommerce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

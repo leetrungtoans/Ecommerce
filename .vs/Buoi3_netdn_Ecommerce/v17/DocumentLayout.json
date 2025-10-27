@@ -3,72 +3,56 @@
   "WorkspaceRootPath": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\viewmodels\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\viewmodels\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\views\\shared\\_timkiempanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\views\\shared\\_timkiempanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\data\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\data\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\wwwroot\\shop-detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\wwwroot\\shop-detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\data\\hshop2023context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\data\\hshop2023context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\models\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\models\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\views\\home\\pagenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\views\\home\\pagenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\wwwroot\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\wwwroot\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\wwwroot\\shop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\wwwroot\\shop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|d:\\workspace\\asp_core_mvc\\buoi3_netdn_ecommerce\\buoi3_netdn_ecommerce\\views\\hanghoa\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{834E81F4-02EF-42C2-8BB3-28744EAF2D58}|Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce.csproj|solutionrelative:buoi3_netdn_ecommerce\\views\\hanghoa\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,227 +62,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Search.cshtml",
-              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\HangHoa\\Search.cshtml",
-              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\Views\\HangHoa\\Search.cshtml",
-              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\HangHoa\\Search.cshtml",
-              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\Views\\HangHoa\\Search.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "_TimKiemPanel.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\Views\\Shared\\_TimKiemPanel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-20T07:44:28.865Z",
+              "WhenOpened": "2025-10-26T15:55:27.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_DanhSachHangHoa.cshtml",
-              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\Shared\\_DanhSachHangHoa.cshtml",
-              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\Views\\Shared\\_DanhSachHangHoa.cshtml",
-              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\Shared\\_DanhSachHangHoa.cshtml",
-              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\Views\\Shared\\_DanhSachHangHoa.cshtml",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAmwJ4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-20T07:16:05.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HoaDon.cs",
-              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Data\\HoaDon.cs",
-              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\Data\\HoaDon.cs",
-              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Data\\HoaDon.cs",
-              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\Data\\HoaDon.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T06:26:04.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "HangHoaVM.cs",
               "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\ViewModels\\HangHoaVM.cs",
               "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\ViewModels\\HangHoaVM.cs",
               "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\ViewModels\\HangHoaVM.cs",
               "RelativeToolTip": "Buoi3_netdn_Ecommerce\\ViewModels\\HangHoaVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T06:07:09.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
-              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
-              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
-              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-13T07:58:05.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MenuLoaiVM.cs",
-              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\ViewModels\\MenuLoaiVM.cs",
-              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\ViewModels\\MenuLoaiVM.cs",
-              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\ViewModels\\MenuLoaiVM.cs",
-              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\ViewModels\\MenuLoaiVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T07:51:32.099Z",
+              "WhenOpened": "2025-10-26T15:14:57.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Program.cs",
-              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\Program.cs",
-              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Program.cs",
-              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T07:40:44.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Hshop2023Context.cs",
-              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Data\\Hshop2023Context.cs",
-              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\Data\\Hshop2023Context.cs",
-              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Data\\Hshop2023Context.cs",
-              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\Data\\Hshop2023Context.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAhwBYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T07:37:47.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\appsettings.json",
-              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\appsettings.json",
-              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\appsettings.json",
-              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-13T07:02:25.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MenuLoaiViewComponent.cs",
-              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Models\\ViewComponents\\MenuLoaiViewComponent.cs",
-              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\Models\\ViewComponents\\MenuLoaiViewComponent.cs",
-              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Models\\ViewComponents\\MenuLoaiViewComponent.cs",
-              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\Models\\ViewComponents\\MenuLoaiViewComponent.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T06:43:13.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "shop.html",
-              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\wwwroot\\shop.html",
-              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\wwwroot\\shop.html",
-              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\wwwroot\\shop.html",
-              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\wwwroot\\shop.html",
-              "ViewState": "AgIAAJgAAAAAAAAAAAAAAJsAAAAkAAAAAAAAAA==",
+              "Title": "shop-detail.html",
+              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\wwwroot\\shop-detail.html",
+              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\wwwroot\\shop-detail.html",
+              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\wwwroot\\shop-detail.html",
+              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\wwwroot\\shop-detail.html",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAF8CAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-10-13T06:37:23.326Z",
+              "WhenOpened": "2025-10-26T15:09:42.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\HangHoa\\Index.cshtml",
-              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\Views\\HangHoa\\Index.cshtml",
-              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\HangHoa\\Index.cshtml",
-              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\Views\\HangHoa\\Index.cshtml",
-              "ViewState": "AgIAABcAAAAAAAAAAAAmwDMAAAAAAAAAAAAAAA==",
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\Views\\HangHoa\\Detail.cshtml",
+              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\Views\\HangHoa\\Detail.cshtml",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAmwNYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-13T06:36:21.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HangHoaController.cs",
-              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Controllers\\HangHoaController.cs",
-              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\Controllers\\HangHoaController.cs",
-              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Controllers\\HangHoaController.cs",
-              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\Controllers\\HangHoaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T06:34:59.421Z",
+              "WhenOpened": "2025-10-26T15:07:27.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "_Footer.cshtml",
-              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\Shared\\_Footer.cshtml",
-              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\Views\\Shared\\_Footer.cshtml",
-              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\Shared\\_Footer.cshtml",
-              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\Views\\Shared\\_Footer.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEkAAAATAAAAAAAAAA==",
+              "Title": "PageNotFound.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\Home\\PageNotFound.cshtml",
+              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\Views\\Home\\PageNotFound.cshtml",
+              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\Home\\PageNotFound.cshtml",
+              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\Views\\Home\\PageNotFound.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-13T06:29:19.462Z",
+              "WhenOpened": "2025-10-26T14:47:04.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-13T06:25:03.719Z",
+              "Title": "404.html",
+              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\wwwroot\\404.html",
+              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\wwwroot\\404.html",
+              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\wwwroot\\404.html",
+              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\wwwroot\\404.html",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-26T14:45:28.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "index.html",
-              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\wwwroot\\index.html",
-              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\wwwroot\\index.html",
-              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\wwwroot\\index.html",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAnwF4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-10-13T06:17:52.998Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:42:06.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\Controllers\\HangHoaController.cs",
+              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\Controllers\\HangHoaController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv0oAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:40:40.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\HangHoa\\Search.cshtml",
+              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\Views\\HangHoa\\Search.cshtml",
+              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\HangHoa\\Search.cshtml",
+              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\Views\\HangHoa\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T14:36:49.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductItem.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\HangHoa\\ProductItem.cshtml",
+              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\Views\\HangHoa\\ProductItem.cshtml",
+              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\HangHoa\\ProductItem.cshtml",
+              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\Views\\HangHoa\\ProductItem.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T14:30:13.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_LayoutCustomer.cshtml",
               "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\Shared\\_LayoutCustomer.cshtml",
               "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\Views\\Shared\\_LayoutCustomer.cshtml",
               "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\Shared\\_LayoutCustomer.cshtml",
               "RelativeToolTip": "Buoi3_netdn_Ecommerce\\Views\\Shared\\_LayoutCustomer.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-13T06:17:46.427Z",
+              "WhenOpened": "2025-10-26T14:21:37.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_DanhSachHangHoa.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T14:21:31.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\HangHoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "Buoi3_netdn_Ecommerce\\Views\\HangHoa\\Index.cshtml",
+              "ToolTip": "D:\\Workspace\\ASP_core_MVC\\Buoi3_netdn_Ecommerce\\Buoi3_netdn_Ecommerce\\Views\\HangHoa\\Index.cshtml",
+              "RelativeToolTip": "Buoi3_netdn_Ecommerce\\Views\\HangHoa\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T14:13:25.606Z",
               "EditorCaption": ""
             }
           ]

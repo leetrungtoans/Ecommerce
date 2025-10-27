@@ -258,3 +258,4 @@ D:\Workspace\ASP_core_MVC\Buoi3_netdn_Ecommerce\Buoi3_netdn_Ecommerce\bin\Debug\
 D:\Workspace\ASP_core_MVC\Buoi3_netdn_Ecommerce\Buoi3_netdn_Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\Workspace\ASP_core_MVC\Buoi3_netdn_Ecommerce\Buoi3_netdn_Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\Workspace\ASP_core_MVC\Buoi3_netdn_Ecommerce\Buoi3_netdn_Ecommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Workspace\ASP_core_MVC\Buoi3_netdn_Ecommerce\Buoi3_netdn_Ecommerce\obj\Debug\net6.0\Buoi3_netdn_Ecommerce.sourcelink.json
